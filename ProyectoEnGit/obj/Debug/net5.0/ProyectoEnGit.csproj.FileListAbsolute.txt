@@ -1,0 +1,16 @@
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\bin\Debug\net5.0\ProyectoEnGit.exe
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\bin\Debug\net5.0\ProyectoEnGit.deps.json
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\bin\Debug\net5.0\ProyectoEnGit.runtimeconfig.json
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\bin\Debug\net5.0\ProyectoEnGit.runtimeconfig.dev.json
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\bin\Debug\net5.0\ProyectoEnGit.dll
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\bin\Debug\net5.0\ref\ProyectoEnGit.dll
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\bin\Debug\net5.0\ProyectoEnGit.pdb
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\obj\Debug\net5.0\ProyectoEnGit.csproj.AssemblyReference.cache
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\obj\Debug\net5.0\ProyectoEnGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\obj\Debug\net5.0\ProyectoEnGit.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\obj\Debug\net5.0\ProyectoEnGit.AssemblyInfo.cs
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\obj\Debug\net5.0\ProyectoEnGit.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\obj\Debug\net5.0\ProyectoEnGit.dll
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\obj\Debug\net5.0\ref\ProyectoEnGit.dll
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\obj\Debug\net5.0\ProyectoEnGit.pdb
+C:\Users\Dani\source\repos\ProyectoEnGit\ProyectoEnGit\obj\Debug\net5.0\ProyectoEnGit.genruntimeconfig.cache
